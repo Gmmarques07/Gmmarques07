@@ -2,23 +2,24 @@
 
 # 👋 Olá, sou Gabriel Marques!
 
-**Full-Stack Developer & Business Intelligence**
+**Full-Stack Developer & Business Intelligence @ Magazine Luiza**
 
-[![Ferrara Calçados](https://img.shields.io/badge/Ferrara%20Calçados-Gestor%20Financeiro%20Pro-0ea5e9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://financeiro.calcadosferrara.com.br)
+[![Magazine Luiza](https://img.shields.io/badge/Magazine%20Luiza-Magalu-0086FF?style=for-the-badge&logo=magalu&logoColor=white)](https://www.magazineluiza.com.br)
 [![Ricardo & Gabriel](https://img.shields.io/badge/Ricardo%20%26%20Gabriel-Link%20na%20Bio-f59e0b?style=for-the-badge&logo=spotify&logoColor=white)](https://rg-onof.vercel.app)
 
 </div>
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 Sobre Mim
+
+Atualmente atuo no **Magazine Luiza**, apaixonado por tecnologia, desenvolvimento de software, dados e automações eficientes que geram impacto real no negócio. Em paralelo, desenvolvo projetos full-stack e sistemas de gestão integrada.
 
 ```text
 💻 Desenvolvimento Full-Stack    Node.js · Express · React · TypeScript · Vite
-📊 Business Intelligence         SQLite · PostgreSQL · n8n · Google Sheets API
-🔗 Integrações & Automações      Bling API v3 · Melhor Envio · Vindi · Meta Ads
-📱 WhatsApp & Atendimento        Whaticket · REST APIs · Webhooks
-☁️  Cloud & DevOps               Magalu Cloud · Nginx · PM2 · Linux Ubuntu
+📊 Business Intelligence         PostgreSQL · SQLite · n8n · Google Sheets API
+🔗 Integrações & Automações      REST APIs · Webhooks · Bling · Vindi · E-commerce
+☁️  Cloud & Infraestrutura        Magalu Cloud · Linux Ubuntu · Nginx · PM2 · Docker
 ```
 
 ---
@@ -42,18 +43,18 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos & Soluções Desenvolvidas
 
-| Projeto | Descrição | Stack | Live |
+| Projeto | Descrição | Stack | Tipo |
 |--------|-----------|-------|------|
-| **Gestor Financeiro Pro** | BI completo: indicadores de vendas, DRE, recebíveis Vindi, etiquetas Correios/Melhor Envio e atendimento WhatsApp integrado | Node.js · SQLite · TailwindCSS | Privado |
-| **Ferrara — Link na Bio** | Página oficial de links da Ferrara Calçados com identidade visual da marca | React · Vite · Vercel | [ferrara-zeta.vercel.app](https://ferrara-zeta.vercel.app) |
-| **RG — Link na Bio** | Link na Bio da dupla sertaneja Ricardo & Gabriel | React · Vite · Vercel | [rg-onof.vercel.app](https://rg-onof.vercel.app) |
+| **Gestor Financeiro Pro** | ERP & BI completo: fluxo de caixa, DRE gerencial, conciliação bancária, integração com e-commerce e atendimento WhatsApp | Node.js · SQLite · TailwindCSS · REST | Privado |
+| **RG — Link na Bio** | Landing page oficial da dupla sertaneja Ricardo & Gabriel com agenda e streaming | React · Vite · TailwindCSS | [rg-onof.vercel.app](https://rg-onof.vercel.app) |
+| **Ferrara — Link na Bio** | Solução de presença digital e redirecionamento de canais de venda | React · Vite · Vercel | [ferrara-zeta.vercel.app](https://ferrara-zeta.vercel.app) |
 
 ---
 
 <div align="center">
 
-📍 São Paulo, Brasil &nbsp;·&nbsp; 🏢 Ferrara Calçados
+📍 São Paulo, Brasil &nbsp;·&nbsp; 🏢 Magazine Luiza
 
 </div>
