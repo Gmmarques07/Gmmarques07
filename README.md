@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente atuo em **Dados, Inteligência e Inovação na Controladoria do Magazine Luiza**, desenvolvendo plataformas full-stack, motores de conciliação em larga escala, arquiteturas em nuvem na **Magalu Cloud (MGC)** e automações que geram impacto real na governança e no fechamento contábil.
+Atualmente atuo em **Dados, Inteligência e Inovação na Controladoria do Magazine Luiza**, desenvolvendo o **Hub Contábil**, motores de **conciliação de Ativos e Folha de Pagamento** em larga escala, arquiteturas em nuvem na **Magalu Cloud (MGC)** e automações que geram impacto real na governança e no fechamento contábil.
 
 ```text
 💻 Desenvolvimento Full-Stack    Python · FastAPI · Node.js · React · TypeScript
@@ -49,8 +49,8 @@ Atualmente atuo em **Dados, Inteligência e Inovação na Controladoria do Magaz
 
 | Projeto | Descrição | Stack | Acesso |
 |--------|-----------|-------|------|
-| **Hub Contábil CSC (Magalu Cloud)** | Portal unificado dos 7 setores do CSC na MGC com motor assíncrono de conciliação contábil (*in-memory* 100 MB+), RBAC via Google SSO, integração BigQuery e despacho contábil via GLConnect / Oracle | Python · FastAPI · Polars · React · Node.js · RabbitMQ · MySQL · Kubernetes (MGC) | Privado (Corporativo) |
-| **Holocron & Painéis de Fechamento Contábil** | Dashboards gerenciais e automações de acompanhamento do fechamento contábil e conciliação de saldos integrados ao Data Warehouse corporativo | Python · React · BigQuery · Looker Studio | Privado (Corporativo) |
+| **Hub Contábil CSC (Magalu Cloud)** | Portal unificado dos 7 setores do CSC na MGC com processamento assíncrono em fila, RBAC via Google SSO, auditoria e integração contábil via GLConnect / Oracle | Python · FastAPI · React · Node.js · RabbitMQ · MySQL · Kubernetes (MGC) | Privado (Corporativo) |
+| **Conciliador de Ativos & Folha de Pagamento** | Motores de conciliação e validação de saldos (*in-memory* 100 MB+) cruzando bases de Folha de Pagamento (Pessoas) e Ativos/Inventário (CSC Operações) contra o razão analítico no BigQuery | Python · FastAPI · Polars · Pandas · BigQuery · MySQL | Privado (Corporativo) |
 | **Gestor Financeiro Pro** | ERP & BI completo: fluxo de caixa, DRE gerencial, conciliação bancária, integração com e-commerce e automação de processos | Node.js · TypeScript · SQLite · TailwindCSS · REST | Privado |
 
 ---
